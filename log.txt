@@ -1,0 +1,11 @@
+commit 0787f6818a9e662d0e844a4560921681b61718ec (HEAD -> master)
+Author: Klimuk_Kirill <KliKir25@gmail.com>
+Date:   Mon Feb 26 18:04:02 2018 +0300
+
+    add status.txt
+
+commit e712f47438586632e8c15ececf98d4e585d5bfa4
+Author: Klimuk_Kirill <KliKir25@gmail.com>
+Date:   Mon Feb 26 18:02:14 2018 +0300
+
+    add .gitignore
