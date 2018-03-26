@@ -1,0 +1,122 @@
+header h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.logo {
+    width: 150px;
+    margin-left: 10%;
+}
+
+.filter {
+    width: 23%;
+    height: 38%;  
+    margin-left: 75%;
+    margin-top:18%;
+    margin-bottom: 20%;  
+    text-align: center;
+    border: 1px solid grey;
+    position: fixed;
+}
+
+.filter input {
+    text-align: center;
+    color: black;
+    height: 25px;
+    margin-top: 20px;
+    font-size: 15px;
+} 
+
+.filter b {
+    font-size: 25px;
+} 
+
+.but {
+    position: relative;  
+    float: right;
+    background: gray;
+    height: 50px;
+    width: 160px;
+    margin-right: 3%;
+    margin-top: 3%;
+    font-size: 18px;
+}
+
+.login {
+    width: 150px;
+    height: 70px;
+    text-align: center;
+    margin-left: 10%;
+    font-size: 25px;
+    background: #DCDCDC;
+}
+
+.lenta {
+    width: 60%;
+    margin-left: 15%;
+    margin-top: 3%;
+}
+
+.photopost {
+    width: 65%;
+    margin-left: 25%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding: 20px;
+    padding-bottom: 120px;
+    background-color: white;
+    border: 1px solid grey;
+}
+
+.name {
+    font-size: 25px;
+}
+
+.left {
+    float: right;
+    text-align: right;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.date {
+    font-size: 18px;
+    margin-top: 50px;
+}
+
+.photo {
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    border: 1px solid grey;
+}
+
+.about {
+    position: relative;  
+    float: left;
+    padding: 10px;
+    height: 68px;
+    width: 70%;
+    border: 2px solid grey; 
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.like {
+    position: relative;  
+    float: right;
+    margin-top: 10px;
+    border: 2px solid grey;
+}
+
+footer b {
+    font-size: 18px;
+}
+
+footer {
+    width: 100%;
+    background: #B0C4DE;
+    text-align: center;
+    border: 1px solid grey;
+    margin-top: 1em;
+}
