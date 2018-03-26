@@ -1,4 +1,16 @@
-commit 0787f6818a9e662d0e844a4560921681b61718ec (HEAD -> master)
+commit e88126200a2c38b9f92d2da7332da10ba18471cb (HEAD -> master)
+Author: Klimuk_Kirill <KliKir25@gmail.com>
+Date:   Mon Mar 26 11:31:16 2018 +0300
+
+    move file log.txt
+
+commit 8b3d72a314aea78e81e0f16c462252046f3becd3 (origin/master)
+Author: Klimuk_Kirill <KliKir25@gmail.com>
+Date:   Mon Feb 26 18:06:44 2018 +0300
+
+    add log.txt
+
+commit 0787f6818a9e662d0e844a4560921681b61718ec
 Author: Klimuk_Kirill <KliKir25@gmail.com>
 Date:   Mon Feb 26 18:04:02 2018 +0300
 
